@@ -249,7 +249,9 @@
                     body: JSON.stringify({ code, language })
                 });
 
+                console.log("Raw Response: before", response);
                 const data = await response.json();
+                console.log("Raw Response: after ", response);
                 const res = data.analysis;
 
                 scanner.style.display = "none";
