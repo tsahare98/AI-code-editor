@@ -107,7 +107,8 @@ Advanced vulnerability database (OWASP-based)
 AI explanation for each detected issue
 📸 Demo
 
-(Add your deployed link or screenshots here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38b20c82-4350-46cc-810a-72842f4c26ef" />
+
 Example:
 👉 https://ai-code-editor-amber.vercel.app
 
